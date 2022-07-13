@@ -1,7 +1,12 @@
 <h1 align="center"> 👹 TheLurkingFear 👹 </h1>
-<strong> Avoid obstacles while killing ghosts to survive! <br/>
-Stay alive for 300 seconds to win, lose your sanity to die! </strong>
-<br/> 
+
+<h3 align="center">
+<strong> 
+Avoid obstacles while killing ghosts to survive! <br/>
+Stay alive for 300 seconds to win, lose your sanity to die! 
+</strong> 
+</h3>
+
 <br/> Commands: <br/>
 Mouse - Look Around <br/>
 A / D - Move <br/>
