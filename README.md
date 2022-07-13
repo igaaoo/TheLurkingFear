@@ -11,7 +11,7 @@ Stay alive for 300 seconds to win, lose your sanity to die!
 Mouse - Look Around <br/>
 A / D - Move <br/>
 Left Click - Turn ON UV Flashlight <br/>
-Right Click - Zoom In 
+Right Click - Zoom In <br/> 
 <br/> Donwload and play:<br/>
 <a href="https://igaaoo.itch.io/medoaespreita" target="_blank"> https://igaaoo.itch.io/medoaespreita </a>
 
