@@ -8,7 +8,7 @@ A / D - Move <br/>
 Left Click - Turn ON/OFF UV Flashlight <br/>
 Right Click - Zoom In <br/>
 
-Donwload and play:
+<br/> Donwload and play:<br/>
 <a href="https://igaaoo.itch.io/medoaespreita" target="_blank"> https://igaaoo.itch.io/medoaespreita </a>
 
 ### Screenshots:
