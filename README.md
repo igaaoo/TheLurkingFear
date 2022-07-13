@@ -1,12 +1,12 @@
 # TheLurkingFear
-## Avoid obstacles while killing ghosts to survive!
-## Stay alive for 300 seconds to win, lose your sanity to die!
+Avoid obstacles while killing ghosts to survive! <br/>
+Stay alive for 300 seconds to win, lose your sanity to die!
 
-Commands:
-Mouse - Look Around
-A / D - Move
-Left Click - Turn ON/OFF UV Flashlight
-Right Click - Zoom In
+Commands: <br/>
+Mouse - Look Around <br/>
+A / D - Move <br/>
+Left Click - Turn ON/OFF UV Flashlight <br/>
+Right Click - Zoom In <br/>
 
 ### Link to donwload in Itch.io:
 <a href="https://igaaoo.itch.io/medoaespreita" target="_blank"> https://igaaoo.itch.io/medoaespreita </a>
