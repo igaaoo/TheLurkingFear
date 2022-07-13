@@ -10,7 +10,7 @@ Stay alive for 300 seconds to win, lose your sanity to die!
 <br/> Commands: <br/>
 Mouse - Look Around <br/>
 A / D - Move <br/>
-Left Click - Turn ON/OFF UV Flashlight <br/>
+Left Click - Turn ON UV Flashlight <br/>
 Right Click - Zoom In <br/>
 
 <br/> Donwload and play:<br/>
