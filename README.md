@@ -1,8 +1,8 @@
 <h1 align="center"> 👹 TheLurkingFear 👹 </h1>
 <strong> Avoid obstacles while killing ghosts to survive! <br/>
 Stay alive for 300 seconds to win, lose your sanity to die! </strong>
-<br/>
-Commands: <br/>
+<br/> 
+<br/> Commands: <br/>
 Mouse - Look Around <br/>
 A / D - Move <br/>
 Left Click - Turn ON/OFF UV Flashlight <br/>
