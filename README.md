@@ -1,4 +1,4 @@
-# TheLurkingFear
+<h1 align="center"> 👹 TheLurkingFear 👹 </h1>
 Avoid obstacles while killing ghosts to survive! <br/>
 Stay alive for 300 seconds to win, lose your sanity to die!
 
